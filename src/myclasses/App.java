@@ -39,5 +39,9 @@ public class App {
         
         StrProba strProba = new StrProba();
         strProba.calculateString();
+        
+        
+        
+        
     }
 }
